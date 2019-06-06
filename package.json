@@ -1,0 +1,44 @@
+{
+  "name": "scsms",
+  "version": "1.0.0",
+  "description": "School Management Software",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam786rana786/scsms.git"
+  },
+  "keywords": [
+    "school",
+    "management",
+    "software",
+    "school",
+    "management",
+    "school",
+    "management",
+    "software"
+  ],
+  "author": "Munish Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sam786rana786/scsms/issues"
+  },
+  "homepage": "https://github.com/sam786rana786/scsms#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.16.1",
+    "mongoose": "^5.5.13",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
